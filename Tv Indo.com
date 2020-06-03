@@ -42,8 +42,6 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_51
 https://cdnbal1.useetv.com/joss/15/cnnindonesia/chunklist_w1865886259_b894100_sleng_308228.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",BERITA SATU
-https://cdnbal1.useetv.com/joss/14/beritasatu/chunklist_w19392159_b684100_sleng_124723.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_HD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_WORLD 
