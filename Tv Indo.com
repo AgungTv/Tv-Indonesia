@@ -1,17 +1,9 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",DIGDAYATV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",RUANG TERAMPIL
-https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",USEE PHOTO
-https://cdnbal1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",USEEPRIME
-https://cdnjt14.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",INDOSIAR
-https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",INDOSIAR
+https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",SCTV
 https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",MNC HD
@@ -65,8 +57,20 @@ https://cdnbal1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122
 https://cdnbal1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",CITRA DRAMA
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",USEE PHOTO
+https://cdnbal1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",USEEPRIME
+https://cdnjt14.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",RUANG TERAMPIL
+https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",DIGDAYATV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",ANTARA
 https://cdnbal1.useetv.com/joss/14/antara/chunklist_w1644761459_b684100_sleng_122661.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",DUNIA LAIN
+https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",SINEMA INDONESIA
+https://cdnbpp1.useetv.com/joss/15/flik/chunklist_w1063102987_b894100_sleng_308143.m3u8
 
 ###### OLAHRAGA ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV OLAHRAGA",USEESPORT 1
@@ -220,6 +224,10 @@ https://cdnbal1.useetv.com/joss/14/cgtndocumentary/chunklist_w1531887919_b684100
 https://cdnbal1.useetv.com/joss/15/natgeowild/chunklist_w2019475274_b894100_sleng_557224.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV PENGETAHUAN",NAT GEO
 https://cdnbal1.useetv.com/joss/15/natgeo/chunklist_w1552377113_b894100_sleng_557218.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV PENGETAHUAN",NHK WORLD
+https://cdnbal1.useetv.com/joss/14/nhkworld/chunklist_w723833860_b684100_sleng_122531.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV PENGETAHUAN",WAKU WAKU JAPAN
+https://cdnbal1.useetv.com/joss/15/wakuwaku/chunklist_w71803447_b894100_sleng_557664.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV PENGETAHUAN",DISCOVERY
 https://cdnbal1.useetv.com/joss/15/disco/chunklist_w1582520027_b894100_sleng_511646.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV PENGETAHUAN",HISTORY
@@ -255,12 +263,6 @@ https://cdnbal1.useetv.com/joss/15/kbsworld/chunklist_w2043943338_b894100_sleng_
 https://cdnbal1.useetv.com/joss/15/axn/chunklist_w369604799_b894100_sleng_557614.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",CITRA DRAMA
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",DUNIA LAIN
-https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",NHK WORLD
-https://cdnbal1.useetv.com/joss/14/nhkworld/chunklist_w723833860_b684100_sleng_122531.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",WAKU WAKU JAPAN
-https://cdnbal1.useetv.com/joss/15/wakuwaku/chunklist_w71803447_b894100_sleng_557664.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",TV5Monde
 https://cdnjt25.useetv.com/joss/14/tv5monde/chunklist_w1972356667_b684100_sleng_38224.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV HIBURAN",SONY GEM
@@ -419,6 +421,32 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/240px-Rai_Movie_-_Logo_2017.svg.png" group-title="FILM LUAR NEGRI",Ray Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",IMC
+https://cdnbpp1.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",ZEE BIOSKOP
+https://cdnbpp1.useetv.com/joss/14/zbioskop/chunklist_w2056934236_b684100_sleng_22256.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",GALAXY
+https://cdnbpp1.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",Thrill
+https://cdnbpp1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",LIFE TIME
+https://cdnbpp1.useetv.com/joss/14/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",BLUEANT ENTERTAINMENT
+https://cdnbpp1.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
+https://cdnbpp1.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8?enc=1oPpDDzeKY6Jv20Ly1ZMDQ&exp=1589709634
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",BLUEANT EXTREME
+https://cdnbpp1.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_sleng_stgiptv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",WARNER WB
+https://cdnbpp1.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",KIX
+https://cdnbpp1.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",MOVIES NOW
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",ROMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
 
 
