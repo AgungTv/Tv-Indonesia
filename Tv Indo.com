@@ -420,7 +420,6 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/240px-Rai_Movie_-_Logo_2017.svg.png" group-title="FILM LUAR NEGRI",Ray Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",IMC
 https://cdnbpp1.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",ZEE BIOSKOP
@@ -440,7 +439,6 @@ https://cdnbpp1.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_
 https://cdnbpp1.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",KIX
 https://cdnbpp1.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="FILM LUAR NEGRI",MOVIES NOW
