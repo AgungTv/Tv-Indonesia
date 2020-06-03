@@ -24,8 +24,6 @@ https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",TVONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",TVONE HD
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://cdnbal1.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",TRANSTV
@@ -38,8 +36,6 @@ https://cdnbal1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",METRO TV
-https://cdnbal1.useetv.com/joss/15/metrotv/chunklist_w1262584048_b894100_sleng_307627.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",KOMPAS TV
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_519839.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
