@@ -101,17 +101,17 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 https://cdnbal1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Sxk3pKZF/realmadridtv.jpg" group-title="USEETV OLAHRAGA",Real Madrid HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/q77Fz5V1/index.jpg" group-title="USEETV OLAHRAGA",Real Madrid 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PMY15Jj/rm2.jpg" group-title="USEETV OLAHRAGA",Real Madrid 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0NHBm09P/RTM-HD-Sports.jpg" group-title="USEETV OLAHRAGA",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/yNXN8WKm/Fox-news-logo.jpg" group-title="USEETV OLAHRAGA",FOX NEWS
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/76GQNJL7/index.jpg" group-title="USEETV OLAHRAGA",Varzesh TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZKbYwJrn/vzh.jpg" group-title="USEETV OLAHRAGA",Varzesh TV
 http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/bJ7VVYG5/index.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DzX7S0Kj/vzh3.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 3
 http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/PfDRpD9n/index.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 4
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Hnpmvt8R/vzh4.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 4
 http://163.172.138.186/hls/stream.m3u8
 
 ##### RELIGI ######
