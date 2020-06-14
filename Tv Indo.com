@@ -60,7 +60,7 @@ https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7YDt7jnq/r-WGFh-w-L-400x400.jpg" group-title="USEETV  INDONESIA",DIGDAYATV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XN8kfvLq/20130928lkbn-antara.jpg" group-title="USEETV  INDONESIA",ANTARA
-https://cdnbal1.useetv.com/joss/14/antara/chunklist_w1644761459_b684100_sleng_122661.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/skrz1j8exe/antaratv_480p/chunks.m3u8?nimblesessionid=168496807&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8zXZ2cQC/Dunia-Lain.jpg" group-title="USEETV  INDONESIA",DUNIA LAIN
 https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tRd2X2Qw/Flik.jpg" group-title="USEETV  INDONESIA",FLIK
