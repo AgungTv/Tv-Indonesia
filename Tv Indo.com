@@ -9,7 +9,7 @@ https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_887
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title="USEETV  INDONESIA",GTV
-http://vpssg.iptv.my.id:19408/session/dyosCH/local/gtv.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=168487206&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDU6NTE6MTQgQU0maGFzaF92YWx1ZT0xRW4rRzBRK0NtTG8xUXI0cW9pbWFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE2MzY2NzcxfDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV
