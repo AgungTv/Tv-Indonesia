@@ -23,7 +23,7 @@ https://cdnbal1.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_3
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET
 https://cdnbal1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
-https://cdnbal1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/skrz1j8exe/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=168490338&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDY6MTQ6MTggQU0maGFzaF92YWx1ZT1KZWo1RW5ZamZXTmY4b1pMdHU2S0h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTYzNjg1MzY1fDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/x1LrYL5d/idkuHD.jpg" group-title="USEETV  INDONESIA",IDKU
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
