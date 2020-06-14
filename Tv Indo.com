@@ -48,7 +48,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV
 https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/jaktv_all/skrz1j8exe/jaktv_576p/chunks.m3u8?nimblesessionid=168491960&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDY6Mjk6MzAgQU0maGFzaF92YWx1ZT02Y0VkZElVNGphdzRZRjlrTDJ0OUpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTM2NjgzNzc1fDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
-https://cdnbal1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
+https://vcdnjt.useetv.com/joss/14/jtv/chunklist_w1026369481_b684100_sleng.m3u8?enc=1QqjCBzs0sT7zuGfFLFsbg&exp=1592125735
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="USEETV  INDONESIA",CITRA DRAMA
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/j2YgM1VQ/USEEPHOTO.jpg" group-title="USEETV  INDONESIA",USEE PHOTO
