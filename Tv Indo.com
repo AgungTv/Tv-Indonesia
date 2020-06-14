@@ -9,7 +9,7 @@ https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_887
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title="USEETV  INDONESIA",GTV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=168487206&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDU6NTE6MTQgQU0maGFzaF92YWx1ZT0xRW4rRzBRK0NtTG8xUXI0cW9pbWFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE2MzY2NzcxfDM2Ljg4LjEyNS4yMTI=
+https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=174551783&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV
@@ -46,7 +46,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8   
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/jaktv_all/skrz1j8exe/jaktv_576p/chunks.m3u8?nimblesessionid=168491960&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDY6Mjk6MzAgQU0maGFzaF92YWx1ZT02Y0VkZElVNGphdzRZRjlrTDJ0OUpnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTM2NjgzNzc1fDM2Ljg4LjEyNS4yMTI=
+https://etslive-2-vidio-com.akamaized.net/exp=1592134690~acl=/hls-p/ingest_5415_*/*~hmac=2302e6485ab3ee2d152c54f3e1bc6e64afe0d5b9ab4b73392ef56fd66800ec84/hls-p/ingest_5415_480p/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="USEETV  INDONESIA",CITRA DRAMA
