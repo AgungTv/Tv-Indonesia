@@ -1,112 +1,151 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="USEETV  INDONESIA",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+http://iptv.burhansyam.com/rcti.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="USEETV  INDONESIA",INDOSIAR
 https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="USEETV  INDONESIA",SCTV
-https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+http://iptv.burhansyam.com/mnctv.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title="USEETV  INDONESIA",GTV
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=174551783&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
+http://iptv.burhansyam.com/globaltvhd.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://cdnbal1.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
 https://cdnbal1.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET
 https://cdnbal1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/skrz1j8exe/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=168490338&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDY6MTQ6MTggQU0maGFzaF92YWx1ZT1KZWo1RW5ZamZXTmY4b1pMdHU2S0h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTYzNjg1MzY1fDM2Ljg4LjEyNS4yMTI=
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://iptv.burhansyam.com/ochan/ochanel.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/x1LrYL5d/idkuHD.jpg" group-title="USEETV  INDONESIA",IDKU
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_519839.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://cdnbal1.useetv.com/joss/15/cnnindonesia/chunklist_w1865886259_b894100_sleng_308228.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_HD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_WORLD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MHfP58rG/unnamed.jpg" group-title="USEETV  INDONESIA",RRI NET
 https://cdnbal1.useetv.com/joss/14/rrinet/chunklist_w201885848_b684100_sleng_121912.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI
 https://cdnjt22.useetv.com/joss/15/tvri/chunklist_w664460053_b684100_sleng_424264.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI 3
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI NASIONAL
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8   
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV
-https://etslive-2-vidio-com.akamaized.net/exp=1592134690~acl=/hls-p/ingest_5415_*/*~hmac=2302e6485ab3ee2d152c54f3e1bc6e64afe0d5b9ab4b73392ef56fd66800ec84/hls-p/ingest_5415_480p/index.m3u8
+http://iptv.burhansyam.com/jak/jaktv.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="USEETV  INDONESIA",CITRA DRAMA
-https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/j2YgM1VQ/USEEPHOTO.jpg" group-title="USEETV  INDONESIA",USEE PHOTO
 https://cdnbal1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/PJb69MTG/images.jpg" group-title="USEETV  INDONESIA",USEEPRIME
 https://cdnjt14.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Wp0fdsr9/ruang-trampil.jpg" group-title="USEETV  INDONESIA",RUANG TERAMPIL
 https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7YDt7jnq/r-WGFh-w-L-400x400.jpg" group-title="USEETV  INDONESIA",DIGDAYATV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XN8kfvLq/20130928lkbn-antara.jpg" group-title="USEETV  INDONESIA",ANTARA
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/skrz1j8exe/antaratv_480p/chunks.m3u8?nimblesessionid=168496807&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zXZ2cQC/Dunia-Lain.jpg" group-title="USEETV  INDONESIA",DUNIA LAIN
-https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tRd2X2Qw/Flik.jpg" group-title="USEETV  INDONESIA",FLIK
-https://cdnbpp1.useetv.com/joss/15/flik/chunklist_w1063102987_b894100_sleng_308143.m3u8
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 
 ###### OLAHRAGA ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Xv0Mq8Nh/Usee-Sports-01.jpg" group-title="USEETV OLAHRAGA",USEESPORT 1
 https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Y9bTXBNK/grey-logo-useesports2-big.jpg" group-title="USEETV OLAHRAGA",USEESPORT 2
 https://cdnbal1.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="USEETV OLAHRAGA",CHAMPION 1
 https://cdnbal1.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="USEETV OLAHRAGA",CHAMPION 2
 https://cdnbal1.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4803.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tgbfp42G/Bein-Sport1.jpg" group-title="USEETV OLAHRAGA",BEIN SPORT 1
 https://cdnbal1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/KzvH3p69/Bein-Sport2.jpg" group-title="USEETV OLAHRAGA",BEIN SPORT 2
 https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qqNDjhMy/be-IN-SPORTS-XTRA-LOGO.jpg" group-title="USEETV OLAHRAGA",BEIN SPORT EXSTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kMHpDcfc/Fox-Sport1.jpg" group-title="USEETV OLAHRAGA",FOX SPORTS 1
 https://cdnbal1.useetv.com/joss/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLf68q2V/Fox-Sports2.jpg" group-title="USEETV OLAHRAGA",FOX SPORTS 2
 https://cdnbal1.useetv.com/joss/15/foxsport2/chunklist_w1843670031_b684100_sleng_enc=0mnw-vu_-tYisiS4VjqDnw.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/jS034jVn/fox-sports-3.jpg" group-title="USEETV OLAHRAGA",FOX SPORTS 3
 https://cdnbal1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/htLyyqgy/1562105434.jpg" group-title="USEETV OLAHRAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/vmGPCSZQ/Viasatsport.jpg" group-title="USEETV OLAHRAGA",VIASAT SPORT EAST
 http://persik.tv/stream/3602/287583/10249.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/R0GPmQWw/mola-logo-horizontal.jpg" group-title="USEETV OLAHRAGA",MOLA SPORT
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9fxvbjY3/EGGNetwork.jpg" group-title="USEETV OLAHRAGA",EGG NETWORK
-https://cdnbal1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_122487.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Sxk3pKZF/realmadridtv.jpg" group-title="USEETV OLAHRAGA",Real Madrid HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PMY15Jj/rm2.jpg" group-title="USEETV OLAHRAGA",Real Madrid 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0NHBm09P/RTM-HD-Sports.jpg" group-title="USEETV OLAHRAGA",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/yNXN8WKm/Fox-news-logo.jpg" group-title="USEETV OLAHRAGA",FOX NEWS
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZKbYwJrn/vzh.jpg" group-title="USEETV OLAHRAGA",Varzesh TV
 http://51.158.66.44/hls/stream.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/DzX7S0Kj/vzh3.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 3
 http://51.15.236.137/hls/stream.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Hnpmvt8R/vzh4.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 4
 http://163.172.138.186/hls/stream.m3u8
 
