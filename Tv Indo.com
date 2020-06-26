@@ -18,30 +18,30 @@ http://iptv.burhansyam.com/globaltvhd.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
 http://iptv.burhansyam.com/inews.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV (TIDAK BISA)
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybC0MBogJapEghVlDsjRBrc8)/dm/3/x619221/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtYt9Pe4)/dm/3/x6p1gw7/s/live-2.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w875861700_b384000_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593191267/ei/A9f1Xun3K_KD8QO5hYDgBA/ip/36.84.104.42/id/WZ83bBwWZQY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ5PA0smdbv5tbcnj16vEr2-I51YgJjBmC-FNV6SH1u4CIA3opCbgr8uaQJh1XGdCZwXpbsyxgWew2nqmhKqYq2N8/file/index.m3u8
+http://iptv.burhansyam.com/vidio/net.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel (TIDAK BISA)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://iptv.burhansyam.com/ochan/ochanel.m3u8
+http://iptv.burhansyam.com/vidio/ochanel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/x1LrYL5d/idkuHD.jpg" group-title="USEETV  INDONESIA",IDKU (TIDAK BISA)
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62229
@@ -71,7 +71,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV
-http://iptv.burhansyam.com/jak/jaktv.m3u8
+http://iptv.burhansyam.com/vidio/jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
@@ -97,10 +97,13 @@ https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",MYTV (TIDAK BISA)
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="USEETV  INDONESIA",CTV BANTEN
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="USEETV  INDONESIA",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="USEETV  INDONESIA",CTV BANTEN (TIDAK BISA)
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV (TIDAK BISA)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CxGY5Y5m/3-BANDUNG-TV.jpg" group-title="USEETV  INDONESIA",BANDUNG TV
