@@ -25,10 +25,10 @@ https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965
 https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtYt9Pe4)/dm/3/x6p1gw7/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w875861700_b384000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62207
