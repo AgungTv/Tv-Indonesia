@@ -22,7 +22,7 @@ http://iptv.burhansyam.com/inews.m3u8
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybC0MBogJapEghVlDsjRBrc8)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtYt9Pe4)/dm/3/x6p1gw7/s/live-2.m3u8
