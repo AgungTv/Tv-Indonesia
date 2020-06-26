@@ -31,7 +31,7 @@ https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtY
 https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w875861700_b384000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62207
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593191267/ei/A9f1Xun3K_KD8QO5hYDgBA/ip/36.84.104.42/id/WZ83bBwWZQY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ5PA0smdbv5tbcnj16vEr2-I51YgJjBmC-FNV6SH1u4CIA3opCbgr8uaQJh1XGdCZwXpbsyxgWew2nqmhKqYq2N8/file/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel (TIDAK BISA)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
