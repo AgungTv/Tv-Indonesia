@@ -4,7 +4,7 @@
 http://iptv.burhansyam.com/rcti.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="USEETV  INDONESIA",INDOSIAR
-https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1593284587~acl=/hls-p/ingest_geo_205_*/*~hmac=d259a553400e5ce62c36be97c2ce5645998661e65b12d507cb4a69cdcea27c2c/hls-p/ingest_geo_205_720p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="USEETV  INDONESIA",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
@@ -179,11 +179,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg" group-title="USEETV OLAHRAGA",Fight Sports
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="USEETV OLAHRAGA",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/vmGPCSZQ/Viasatsport.jpg" group-title="USEETV OLAHRAGA",VIASAT SPORT EAST
 http://persik.tv/stream/3602/287583/10249.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/R0GPmQWw/mola-logo-horizontal.jpg" group-title="USEETV OLAHRAGA",MOLA SPORT
-https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9fxvbjY3/EGGNetwork.jpg" group-title="USEETV OLAHRAGA",EGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
