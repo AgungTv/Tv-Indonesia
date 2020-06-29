@@ -1,7 +1,7 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="USEETV  INDONESIA",RCTI
-http://iptv.burhansyam.com/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="USEETV  INDONESIA",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1593284587~acl=/hls-p/ingest_geo_205_*/*~hmac=d259a553400e5ce62c36be97c2ce5645998661e65b12d507cb4a69cdcea27c2c/hls-p/ingest_geo_205_720p/index.m3u8
@@ -10,16 +10,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1593284587~acl=/hls-p/ingest_geo_2
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
-http://iptv.burhansyam.com/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title="USEETV  INDONESIA",GTV
-http://iptv.burhansyam.com/globaltvhd.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title="USEETV  INDONESIA",INEWS
-http://iptv.burhansyam.com/inews.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV (TIDAK BISA)
-https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="USEETV  INDONESIA",ANTV 
+http://rr2.dens.tv/s/s07/index2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE
 https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
@@ -34,17 +34,13 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://iptv.burhansyam.com/vidio/net.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://iptv.burhansyam.com/vidio/ochanel.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/x1LrYL5d/idkuHD.jpg" group-title="USEETV  INDONESIA",IDKU (TIDAK BISA)
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
+http://brhn.xyz/vidiodotcom/ochanel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62229
+http://brhn.xyz/vidiodotcom/kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="USEETV  INDONESIA",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
@@ -78,15 +74,6 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Dfj1ypXm/16-BALI-TV.jpg" group-title="USEETV  INDONESIA",BALI TV
 https://vcdnjt.useetv.com/joss/18/balitv/chunklist_w349493769_b684100_sleng.m3u8?enc=vabuUZ_SJ6k7FexKSuLqKA&exp=1593145379
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2YgM1VQ/USEEPHOTO.jpg" group-title="USEETV  INDONESIA",USEE PHOTO (TIDAK BISA)
-https://cdnbal1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/PJb69MTG/images.jpg" group-title="USEETV  INDONESIA",USEEPRIME (TIDAK BISA)
-https://cdnjt14.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Wp0fdsr9/ruang-trampil.jpg" group-title="USEETV  INDONESIA",RUANG TERAMPIL (TIDAK BISA)
-https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7YDt7jnq/r-WGFh-w-L-400x400.jpg" group-title="USEETV  INDONESIA",DIGDAYATV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
