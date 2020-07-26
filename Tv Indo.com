@@ -22,7 +22,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 http://rr2.dens.tv/s/s07/index2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE (Tidak Bisa)
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
+https://youtu.be/LReqTS5bsBU
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -40,7 +40,7 @@ http://brhn.xyz/vidiodotcom/ochanel.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV (Tidak Bisa)
-https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0sgXCgycrkCnQLTUjS3kG0)/dm/3/x6pz4sa/d/live-2.m3u8
+https://youtu.be/gIB2egm7tL8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="USEETV  INDONESIA",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
