@@ -30,8 +30,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET (Tidak Bisa)
-http://iptv.burhansyam.com/vidio/net.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET 
+https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/NET.HD/nettv-875.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel (Tidak Bisa)
 http://brhn.xyz/vidiodotcom/ochanel.m3u8
@@ -39,8 +39,8 @@ http://brhn.xyz/vidiodotcom/ochanel.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV (Tidak Bisa)
-https://youtu.be/gIB2egm7tL8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
+https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/kompas/874-kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="USEETV  INDONESIA",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
