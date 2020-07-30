@@ -69,8 +69,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="USEETV  INDONESIA",TV EDUKASI
 http://malangtv.000webhostapp.com/6838-edukasi.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV (Tidak Bisa)
-http://iptv.burhansyam.com/vidio/jaktv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV 
+http://malangtv.000webhostapp.com/5415-jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
