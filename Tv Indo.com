@@ -4,10 +4,10 @@
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="USEETV  INDONESIA",INDOSIAR 
-http://malangtv.000webhostapp.com/205-Indosiar.m3u8
+http://malangtv.000webhostapp.com/indosiar.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="USEETV  INDONESIA",SCTV 
-http://malangtv.000webhostapp.com/204-sctv.m3u8
+http://malangtv.000webhostapp.com/sctv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
