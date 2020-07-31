@@ -31,16 +31,16 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET 
-https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/NET.HD/nettv-875.m3u8
+http://malangtv.000webhostapp.com/nethd.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel 
-http://malangtv.000webhostapp.com/206-O-CHANNEL.m3u8
+http://malangtv.000webhostapp.com/ochannel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
-https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/kompas/874-kompastv.m3u8
+http://malangtv.000webhostapp.com/kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="USEETV  INDONESIA",RTV
 http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
@@ -70,7 +70,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 http://malangtv.000webhostapp.com/6838-edukasi.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV 
-http://malangtv.000webhostapp.com/5415-jaktv.m3u8
+http://malangtv.000webhostapp.com/jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
