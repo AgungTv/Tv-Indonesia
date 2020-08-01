@@ -42,7 +42,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
 http://malangtv.000webhostapp.com/kompastv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="USEETV  INDONESIA",RTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
 http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
@@ -84,8 +84,8 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tRd2X2Qw/Flik.jpg" group-title="USEETV  INDONESIA",FLIK (TIDAK BISA)
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="USEETV  INDONESIA",MYTV (TIDAK BISA)
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/jSJs21qR/MyTv-2.jpg" group-title="USEETV  INDONESIA",MYTV 
+http://malangtv.000webhostapp.com/mytv.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="USEETV  INDONESIA",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
