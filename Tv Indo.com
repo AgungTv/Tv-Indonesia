@@ -43,7 +43,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_
 http://malangtv.000webhostapp.com/kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
-http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
+http://malangtv.000webhostapp.com/rtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -95,6 +95,12 @@ http://103.23.201.170:1935/live/livestream/chunklist_w1878993734.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrfc1rG/18-Batu-TV.jpg" group-title="USEETV  INDONESIA",BATU TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Mp0L8DDp/19-dhamma-tv.jpg" group-title="USEETV  INDONESIA",DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tJ54cJD4/17-BAYU-TV-NGANJUK.jpg" group-title="USEETV  INDONESIA",BAYU TV NGANJUK
 https://5bf7b725107e5.streamlock.net/bayutv/live/chunklist_w1362652903.m3u8
