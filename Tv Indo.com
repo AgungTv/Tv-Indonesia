@@ -48,7 +48,7 @@ http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="USEETV  INDONESIA",CNBC Indonesia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MG72549W/CNBC.jpg" group-title="USEETV  INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_HD 
@@ -66,7 +66,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="USEETV  INDONESIA",TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="USEETV  INDONESIA",TV EDUKASI
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/26Ymfm1b/Logo-tvedukasi-baru.jpg" group-title="USEETV  INDONESIA",TV EDUKASI
 http://malangtv.000webhostapp.com/6838-edukasi.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV 
@@ -93,8 +93,11 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="USEETV  INDONESIA",CTV BANTEN 
 http://103.23.201.170:1935/live/livestream/chunklist_w1878993734.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV (TIDAK BISA)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="USEETV  INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/tJ54cJD4/17-BAYU-TV-NGANJUK.jpg" group-title="USEETV  INDONESIA",BAYU TV NGANJUK
+https://5bf7b725107e5.streamlock.net/bayutv/live/chunklist_w1362652903.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CxGY5Y5m/3-BANDUNG-TV.jpg" group-title="USEETV  INDONESIA",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
