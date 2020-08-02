@@ -25,10 +25,10 @@ http://rr2.dens.tv:80/s/s07/01.m3u8
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybCv2kRRQ2yblKm1aZCs0YLs)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://malangtv.000webhostapp.com/trans7.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://malangtv.000webhostapp.com/transtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET 
 http://malangtv.000webhostapp.com/nethd.m3u8
@@ -141,6 +141,87 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/jjq5rCcz/15-RCTV-CIREBON.jpg" group-title="USEETV  INDONESIA",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
+###### PENGETAHUAN ######
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="USEETV PENGETAHUAN",NAT GEO PEOPLE (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18570
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cLJV4r40/2-NAT-GEO-WILD.jpg" group-title="USEETV PENGETAHUAN",NAT GEO WILD (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18569
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/bv7MTg0w/3-NAT-GEO.jpg" group-title="USEETV PENGETAHUAN",NAT GEO (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62210
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="USEETV PENGETAHUAN",ANIMAL PLANET
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62299
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/28GsD4Y0/4-NHK-WORLD.jpg" group-title="USEETV PENGETAHUAN",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsdqR6qJ/5-WAKU-WAKU-JAPAN.jpg" group-title="USEETV PENGETAHUAN",WAKU WAKU JAPAN (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62143
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG6hd3zq/6-DISCOVERY-CHANNEL.jpg" group-title="USEETV PENGETAHUAN",DISCOVERY (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62268
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rp03x3rH/7-HISTORY-CHANNEL.jpg" group-title="USEETV PENGETAHUAN",HISTORY (tidak bisa)
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62240
+
+##### RELIGI ######
+#EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="USEETV RELIGI",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sDQF9Fyr/1-AHSAN-TV.jpg" group-title="USEETV RELIGI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Fs2MTPsJ/2-AL-IMAN-TV.jpg" group-title="USEETV RELIGI",AL-IMAN TV (TIDAK BISA)
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/D0RMYZFK/3-SALAM-TV.jpg" group-title="USEETV RELIGI",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vBHk4kXC/4-NABAWI-TV.jpg" group-title="USEETV RELIGI",NABAWI TV
+http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FKxwsNbj/5-AL-BAHJAJ-TV.jpg" group-title="USEETV RELIGI",AL Bahjah 
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/wBzSp7Nq/6-IQRA-TV.jpg" group-title="USEETV RELIGI",Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3rqVwLGb/7-WESAL-TV.jpg" group-title="USEETV RELIGI",Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k41ZKspG/8-HIDUP-TV.jpg" group-title="USEETV RELIGI",Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2D1XfpX/9-IAM-CHANNEL.jpg" group-title="USEETV RELIGI",I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+
+###### ANAK-ANAK ######
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nc0yJHkB/1-DISNEY-JUNIOR.jpg" group-title="USEETV ANAK-ANAK",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zBH5PF2/8-Cartoon-Network.jpg" group-title="USEETV ANAK-ANAK",CARTOON NETWORK
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62279
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RZY2WX20/2-EBS-KIDS.jpg" group-title="USEETV ANAK-ANAK",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2RFp9nM/3-BEN-10-TV.jpg" group-title="USEETV ANAK-ANAK",Ben 10
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/768cVbH8/4-GEM-KIDS.jpg" group-title="USEETV ANAK-ANAK",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L85r4rC7/5-GEM-JUNIOR.jpg" group-title="USEETV ANAK-ANAK",GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rpt3x5LN/6-LARVA-TV.jpg" group-title="USEETV ANAK-ANAK",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vBrKSMT1/7-3-ABN-KIDS-TV.jpg" group-title="USEETV ANAK-ANAK",3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+
 ###### OLAHRAGA ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Xv0Mq8Nh/Usee-Sports-01.jpg" group-title="USEETV OLAHRAGA",USEESPORT 1 (TIDAK BISA)
 https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
@@ -210,89 +291,6 @@ http://51.15.236.137/hls/stream.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Hnpmvt8R/vzh4.jpg" group-title="USEETV OLAHRAGA",Varzesh TV 4
 http://163.172.138.186/hls/stream.m3u8
-
-##### RELIGI ######
-#EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="USEETV RELIGI",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/sDQF9Fyr/1-AHSAN-TV.jpg" group-title="USEETV RELIGI",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Fs2MTPsJ/2-AL-IMAN-TV.jpg" group-title="USEETV RELIGI",AL-IMAN TV (TIDAK BISA)
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/D0RMYZFK/3-SALAM-TV.jpg" group-title="USEETV RELIGI",SALAM TV
-http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vBHk4kXC/4-NABAWI-TV.jpg" group-title="USEETV RELIGI",NABAWI TV
-http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FKxwsNbj/5-AL-BAHJAJ-TV.jpg" group-title="USEETV RELIGI",AL Bahjah 
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wBzSp7Nq/6-IQRA-TV.jpg" group-title="USEETV RELIGI",Iqraa TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/3rqVwLGb/7-WESAL-TV.jpg" group-title="USEETV RELIGI",Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/k41ZKspG/8-HIDUP-TV.jpg" group-title="USEETV RELIGI",Hidup TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2D1XfpX/9-IAM-CHANNEL.jpg" group-title="USEETV RELIGI",I AM Channel
-http://iamchannel.org:1935/tes/1/chunklist.m3u8
-
-
-###### ANAK-ANAK ######
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/nc0yJHkB/1-DISNEY-JUNIOR.jpg" group-title="USEETV ANAK-ANAK",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zBH5PF2/8-Cartoon-Network.jpg" group-title="USEETV ANAK-ANAK",CARTOON NETWORK
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62279
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/RZY2WX20/2-EBS-KIDS.jpg" group-title="USEETV ANAK-ANAK",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2RFp9nM/3-BEN-10-TV.jpg" group-title="USEETV ANAK-ANAK",Ben 10
-http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/768cVbH8/4-GEM-KIDS.jpg" group-title="USEETV ANAK-ANAK",GEM KIDS
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L85r4rC7/5-GEM-JUNIOR.jpg" group-title="USEETV ANAK-ANAK",GEM JUNIOR
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rpt3x5LN/6-LARVA-TV.jpg" group-title="USEETV ANAK-ANAK",LARVA TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vBrKSMT1/7-3-ABN-KIDS-TV.jpg" group-title="USEETV ANAK-ANAK",3ABNKIDS.TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-
-###### PENGETAHUAN ######
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="USEETV PENGETAHUAN",NAT GEO PEOPLE
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18570
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cLJV4r40/2-NAT-GEO-WILD.jpg" group-title="USEETV PENGETAHUAN",NAT GEO WILD
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18569
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/bv7MTg0w/3-NAT-GEO.jpg" group-title="USEETV PENGETAHUAN",NAT GEO
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62210
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="USEETV PENGETAHUAN",ANIMAL PLANET
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62299
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/28GsD4Y0/4-NHK-WORLD.jpg" group-title="USEETV PENGETAHUAN",NHK WORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsdqR6qJ/5-WAKU-WAKU-JAPAN.jpg" group-title="USEETV PENGETAHUAN",WAKU WAKU JAPAN
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62143
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG6hd3zq/6-DISCOVERY-CHANNEL.jpg" group-title="USEETV PENGETAHUAN",DISCOVERY
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62268
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rp03x3rH/7-HISTORY-CHANNEL.jpg" group-title="USEETV PENGETAHUAN",HISTORY
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62240
-
 
 ###### BERITA ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YSPMYTCG/1-CNN-INTERNATIONAL.jpg" group-title="USEETV BERITA",CNN INTERNATIONAL (TIDAK BISA)
