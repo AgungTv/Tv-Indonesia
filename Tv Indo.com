@@ -55,7 +55,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg" group-title="USEETV  INDONESIA",BERITA_SATU_WORLD 
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MHfP58rG/unnamed.jpg" group-title="USEETV  INDONESIA",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
@@ -67,7 +67,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/26Ymfm1b/Logo-tvedukasi-baru.jpg" group-title="USEETV  INDONESIA",TV EDUKASI
-http://malangtv.000webhostapp.com/6838-edukasi.m3u8
+http://malangtv.000webhostapp.com/tvedukasi.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV 
 http://malangtv.000webhostapp.com/jaktv.m3u8
@@ -151,8 +151,8 @@ http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18569
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bv7MTg0w/3-NAT-GEO.jpg" group-title="USEETV PENGETAHUAN",NAT GEO (tidak bisa)
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62210
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="USEETV PENGETAHUAN",ANIMAL PLANET
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62299
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="USEETV PENGETAHUAN",LOVE NATURE
+http://malangtv.000webhostapp.com/lovenature.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/28GsD4Y0/4-NHK-WORLD.jpg" group-title="USEETV PENGETAHUAN",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
