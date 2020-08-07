@@ -46,7 +46,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 http://rr2.dens.tv:80/s/s07/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybH4RJ5bAAlsJlv9G9FO5eI0)/dm/3/x619221/s/live-1.m3u8
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybH4RJ5bAAlsJlv9G9FO5eI0)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 http://dikatv.000webhostapp.com/trans7.m3u8
