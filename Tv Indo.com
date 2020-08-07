@@ -4,10 +4,10 @@
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="USEETV  INDONESIA",INDOSIAR 
-http://malangtv.000webhostapp.com/indosiar.m3u8
+http://dikatv.000webhostapp.com/indosiar.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="USEETV  INDONESIA",SCTV 
-http://malangtv.000webhostapp.com/sctv.m3u8
+http://dikatv.000webhostapp.com/sctv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="USEETV  INDONESIA",MNC HD
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -25,25 +25,25 @@ http://rr2.dens.tv:80/s/s07/01.m3u8
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybCv2kRRQ2yblKm1aZCs0YLs)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
-http://malangtv.000webhostapp.com/trans7.m3u8
+http://dikatv.000webhostapp.com/trans7.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
-http://malangtv.000webhostapp.com/transtv.m3u8
+http://dikatv.000webhostapp.com/transtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET 
-http://malangtv.000webhostapp.com/nethd.m3u8
+http://dikatv.000webhostapp.com/nethd.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="USEETV  INDONESIA",O Channel 
-http://malangtv.000webhostapp.com/ochannel.m3u8
+http://dikatv.000webhostapp.com/ochannel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
-http://malangtv.000webhostapp.com/kompastv.m3u8
+http://dikatv.000webhostapp.com/kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
-http://malangtv.000webhostapp.com/rtv.m3u8
+http://dikatv.000webhostapp.com/rtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -67,10 +67,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/26Ymfm1b/Logo-tvedukasi-baru.jpg" group-title="USEETV  INDONESIA",TV EDUKASI
-http://malangtv.000webhostapp.com/tvedukasi.m3u8
+http://dikatv.000webhostapp.com/tvedukasi.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="USEETV  INDONESIA",JAKTV 
-http://malangtv.000webhostapp.com/jaktv.m3u8
+http://dikatv.000webhostapp.com/jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="USEETV  INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
@@ -85,7 +85,7 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/jSJs21qR/MyTv-2.jpg" group-title="USEETV  INDONESIA",MYTV 
-http://malangtv.000webhostapp.com/mytv.m3u8
+http://dikatv.000webhostapp.com/mytv.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="USEETV  INDONESIA",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -152,7 +152,7 @@ http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18569
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62210
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="USEETV PENGETAHUAN",LOVE NATURE
-http://malangtv.000webhostapp.com/lovenature.m3u8
+http://dikatv.000webhostapp.com/lovenature.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/28GsD4Y0/4-NHK-WORLD.jpg" group-title="USEETV PENGETAHUAN",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
