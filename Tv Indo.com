@@ -141,6 +141,20 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/jjq5rCcz/15-RCTV-CIREBON.jpg" group-title="USEETV  INDONESIA",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
+###### VIDIO.COM ######
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0BwzgMY/9-LOVENATURE.jpg" group-title="VIDIO.COM",LOVE NATURE
+http://dikatv.000webhostapp.com/lovenature.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="VIDIO.COM",CHAMPION 1
+http://dikatv.000webhostapp.com/championtv1.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
+http://dikatv.000webhostapp.com/championtv2.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
+http://dikatv.000webhostapp.com/championtv3.php
+
+
 ###### PENGETAHUAN ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="USEETV PENGETAHUAN",NAT GEO PEOPLE (tidak bisa)
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18570
