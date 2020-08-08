@@ -148,10 +148,10 @@ http://dikatv.000webhostapp.com/lovenature.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="VIDIO.COM",CHAMPION 1
 http://dikatv.000webhostapp.com/championtv1.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 
 http://dikatv.000webhostapp.com/championtv2.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 3 
 http://dikatv.000webhostapp.com/championtv3.php
 
 
