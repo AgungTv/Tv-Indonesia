@@ -154,6 +154,17 @@ http://dikatv.000webhostapp.com/championtv2.php
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 3 
 http://dikatv.000webhostapp.com/championtv3.php
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="VIDIO.COM",TVN
+http://dikatv.000webhostapp.com/tvn.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/T1NXrwNn/citra-bioskop-channel-tv-logo.jpg" group-title="VIDIO.COM",CITRA BIOSKOP
+http://dikatv.000webhostapp.com/citrabioskop.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="VIDIO.COM",CITRA DRAMA
+http://dikatv.000webhostapp.com/citradrama.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DRAMA
+http://dikatv.000webhostapp.com/citradangdut.php
 
 ###### PENGETAHUAN ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="USEETV PENGETAHUAN",NAT GEO PEOPLE (tidak bisa)
@@ -348,14 +359,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/dVyx51v9/3-AXN-TV.jpg" group-title="USEETV HIBURAN",AXN (TIDAK BISA)
 https://cdnbal1.useetv.com/joss/15/axn/chunklist_w369604799_b894100_sleng_557614.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/MGxSTtyc/7-SONY-ONE.jpg" group-title="USEETV HIBURAN",SONY ONE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MGxSTtyc/7-SONY-ONE.jpg" group-title="USEETV HIBURAN",SONY ONE (TIDAK BISA)
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62190
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/3wQbVTxQ/5-TVN-MOVIES.jpg" group-title="USEETV HIBURAN",TVN MOVIES
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3wQbVTxQ/5-TVN-MOVIES.jpg" group-title="USEETV HIBURAN",TVN MOVIES (TIDAK BISA)
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62178
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="USEETV HIBURAN",TVN
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18552
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Wz0TQJD6/9-KIX-TV.jpg" group-title="USEETV HIBURAN",KIX
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62230
