@@ -163,7 +163,7 @@ http://dikatv.000webhostapp.com/citrabioskop.php
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="VIDIO.COM",CITRA DRAMA
 http://dikatv.000webhostapp.com/citradrama.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DRAMA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT
 http://dikatv.000webhostapp.com/citradangdut.php
 
 ###### PENGETAHUAN ######
