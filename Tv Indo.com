@@ -166,6 +166,9 @@ http://dikatv.000webhostapp.com/citradrama.php
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT
 http://dikatv.000webhostapp.com/citradangdut.php
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/JzMx71yb/8-Arirang-TV.jpg" group-title="VIDIO.COM",ARIRANG
+http://dikatv.000webhostapp.com/arirangtv.php
+
 ###### PENGETAHUAN ######
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="USEETV PENGETAHUAN",NAT GEO PEOPLE (tidak bisa)
 http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18570
