@@ -22,7 +22,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 http://rr2.dens.tv:80/s/s07/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybH4RJ5bAAlsJlv9G9FO5eI0)/dm/3/x619221/s/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybOohE0eZ0YPae-P0J4jMiTI)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 http://dikatv.000webhostapp.com/trans7.m3u8
@@ -142,31 +142,31 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
 ###### VIDIO.COM ######
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0BwzgMY/9-LOVENATURE.jpg" group-title="VIDIO.COM",LOVE NATURE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0BwzgMY/9-LOVENATURE.jpg" group-title="VIDIO.COM",LOVE NATURE (TIDAK BISA)
 http://dikatv.000webhostapp.com/lovenature.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="VIDIO.COM",CHAMPION 1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="VIDIO.COM",CHAMPION 1 (TIDAK BISA)
 http://dikatv.000webhostapp.com/championtv1.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
 http://dikatv.000webhostapp.com/championtv2.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 3 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 3 (TIDAK BISA)
 http://dikatv.000webhostapp.com/championtv3.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="VIDIO.COM",TVN
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="VIDIO.COM",TVN (TIDAK BISA)
 http://dikatv.000webhostapp.com/tvn.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/T1NXrwNn/citra-bioskop-channel-tv-logo.jpg" group-title="VIDIO.COM",CITRA BIOSKOP
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/T1NXrwNn/citra-bioskop-channel-tv-logo.jpg" group-title="VIDIO.COM",CITRA BIOSKOP (TIDAK BISA)
 http://dikatv.000webhostapp.com/citrabioskop.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="VIDIO.COM",CITRA DRAMA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="VIDIO.COM",CITRA DRAMA (TIDAK BISA)
 http://dikatv.000webhostapp.com/citradrama.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT (TIDAK BISA)
 http://dikatv.000webhostapp.com/citradangdut.php
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/JzMx71yb/8-Arirang-TV.jpg" group-title="VIDIO.COM",ARIRANG
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/JzMx71yb/8-Arirang-TV.jpg" group-title="VIDIO.COM",ARIRANG TV (TIDAK BISA)
 http://dikatv.000webhostapp.com/arirangtv.php
 
 ###### PENGETAHUAN ######
