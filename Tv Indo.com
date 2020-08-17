@@ -22,7 +22,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 http://rr2.dens.tv:80/s/s07/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybOohE0eZ0YPae-P0J4jMiTI)/dm/3/x619221/s/live-2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1597697213/ei/XZg6X7C7FfSVz7sPo4OzwA4/ip/36.78.125.120/id/M5P6AGybcC8.0/source/yt_live_broadcast/requiressl/yes/tx/23932697/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKvu5ZQZ3lOoUSjYBg1Oei0VgWYPZlFByMtwUznNy_zoCIDwySEMy98qa5BKcgZWVhxBc2TJMyC9tB2leNVSzDI0x/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 http://dikatv.000webhostapp.com/trans7.m3u8
